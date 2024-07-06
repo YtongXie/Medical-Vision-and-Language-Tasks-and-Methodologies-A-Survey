@@ -3,8 +3,51 @@ Medical Vision-and-Language Tasks and Methodologies: A Survey
 
 ## List of related papers and code
 
-### Medical Multi-modal Diagnosis and Prognosis
+### Medical Visual Question Answering
 
+- **MUMC:** Li, Pengfei and Liu, Gang and He, Jinlong and Zhao, Zixu and Zhong, Shenjun.<br> "Masked vision and language pre-training with unimodal and multimodal contrastive losses for medical visual question answering" **MICCAI (2023).** [[paper](https://arxiv.org/pdf/2307.05314)] [[code](https://github.com/pengfeiliHEU/MUMC)]
+
+- Van Sonsbeek, Tom and Derakhshani, Mohammad Mahdi and Najdenkoska, Ivona and Snoek, Cees GM and Worring, Marcel.<br> "Open-ended medical visual question answering through prefix tuning of language models" **MICCAI (2023).** [[paper](https://arxiv.org/pdf/2303.05977)]
+
+- Tascon-Morales, Sergio and Márquez-Neila, Pablo and Sznitman, Raphael.<br> "Localized questions in medical visual question answering" **MICCAI (2023).** [[paper](https://arxiv.org/pdf/2307.01067)]
+
+- **CS-VQLA:** Bai, Long and Islam, Mobarakol and Ren, Hongliang.<br> "Revisiting distillation for continual learning on visual question localized-answering in robotic surgery" **MICCAI (2023).** [[paper](https://arxiv.org/pdf/2307.12045)] [[code](https://github.com/longbai1006/CS-VQLA)]
+
+- **CAT-ViL:** Bai, Long and Islam, Mobarakol and Ren, Hongliang.<br> "CAT-ViL: co-attention gated vision-language embedding for visual question localized-answering in robotic surgery" **MICCAI (2023).** [[paper](https://www.researchgate.net/profile/Long-Bai-13/publication/372286558_Co-Attention_Gated_Vision-Language_Embedding_for_Visual_Question_Localized-Answering_in_Robotic_Surgery/links/64d61268b684851d3d9e9320/Co-Attention-Gated-Vision-Language-Embedding-for-Visual-Question-Localized-Answering-in-Robotic-Surgery.pdf)] [[code](https://github.com/longbai1006/CAT-ViL)]
+
+- **hi-VQA:** Pellegrini, Chantal and Keicher, Matthias and Özsoy, Ege and Navab, Nassir.<br> "Rad-restruct: A novel vqa benchmark and method for structured radiology reporting" **MICCAI (2023).** [[paper](https://arxiv.org/pdf/2307.05766)] [[code](https://github.com/ChantalMP/Rad-ReStruct)]
+
+- **DeBCF:** Zhan, Chenlu and Peng, Peng and Zhang, Hanrong and Sun, Haiyue and Shang, Chunnan and Chen, Tao and Wang, Hongsen and Wang, Gaoang and Wang, Hongwei.<br> "Debiasing Medical Visual Question Answering via Counterfactual Training" **MICCAI (2023).** [[paper](https://link.springer.com/chapter/10.1007/978-3-031-43895-0_36)]
+
+- **${MF^2-MVQA}$:** Song, Shanshan and Li, Jiangyun and Wang, Jing and Cai, Yuanxiu and Dong, Wenkai.<br> "\$MF^2-MVQA$: A Multi-Stage Feature Fusion Method for Medical Visual Question Answering" **ISBI (2023).** [[paper](https://arxiv.org/pdf/2211.05991)] [[code]()]
+
+- **M2I2:** Li, Pengfei and Liu, Gang and Tan, Lin and Liao, Jinying and Zhong, Shenjun.<br> "Self-supervised vision-language pretraining for medial visual question answering" **ISBI (2023).** [[paper](https://arxiv.org/pdf/2211.13594)] [[code](https://github.com/pengfeiliHEU/M2I2)]
+
+- **Q2ATransformer:** Liu, Yunyi and Wang, Zhanyu and Xu, Dong and Zhou, Luping.<br> "Q2atransformer: Improving medical vqa via an answer querying decoder" **IPMI (2023).** [[paper](https://arxiv.org/pdf/2304.01611)]
+
+- Tascon-Morales, Sergio and Márquez-Neila, Pablo and Sznitman, Raphael.<br> "Consistency-preserving visual question answering in medical imaging" **MICCAI (2022).** [[paper](https://arxiv.org/pdf/2206.13296)] [[code](https://github.com/sergiotasconmorales/consistency_vqa)]
+
+- **RepsNet:** Tanwani, Ajay K and Barral, Joelle and Freedman, Daniel.<br> "Repsnet: Combining vision with language for automated medical reports" **MICCAI (2022).** [[paper](https://arxiv.org/pdf/2209.13171)]
+
+- Cong, Fuze and Xu, Shibiao and Guo, Li and Tian, Yinbing.<br> "Anomaly matters: An anomaly-oriented model for medical visual question answering" **TMI (2022).** [[paper](https://www.researchgate.net/profile/Fuze-Cong/publication/361648686_Anomaly_Matters_An_Anomaly-Oriented_Model_for_Medical_Visual_Question_Answering/links/62c29197bd55e01e75f94d9e/Anomaly-Matters-An-Anomaly-Oriented-Model-for-Medical-Visual-Question-Answering.pdf)]
+
+- **VQAMix:** Gong, Haifan and Chen, Guanqi and Mao, Mingzhi and Li, Zhen and Li, Guanbin.<br> "Vqamix: Conditional triplet mixup for medical visual question answering" **TMI (2022).** [[paper](https://drive.google.com/file/d/157DtLucUdiACgWiWJTJjkQ9Us1T1X-VU/view)] [[code](https://github.com/haifangong/VQAMix)]
+
+- Liu, Bo and Zhan, Li-Ming and Xu, Li and Wu, Xiao-Ming.<br> "Medical visual question answering via conditional reasoning and contrastive learning" **TMI (2022).** [[paper](https://ieeexplore.ieee.org/abstract/document/9999450)] [[code](https://github.com/Awenbocc/CPCR)]
+
+- **TraP-VQA:** Naseem, Usman and Khushi, Matloob and Kim, Jinman.<br> "Vision-language transformer for interpretable pathology visual question answering" **JBHI (2022).** [[paper](https://ieeexplore.ieee.org/abstract/document/9745795)]
+
+- **MMQ:** Do, Tuong and Nguyen, Binh X and Tjiputra, Erman and Tran, Minh and Tran, Quang D and Nguyen, Anh.<br> "Multiple meta-model quantifying for medical visual question answering" **MICCAI (2021).** [[paper](https://arxiv.org/pdf/2105.08913)] [[code](https://github.com/aioz-ai/MICCAI21_MMQ)]
+
+- **CPRD:** Liu, Bo and Zhan, Li-Ming and Wu, Xiao-Ming.<br> "Contrastive pre-training and representation distillation for medical visual question answering based on radiology images" **MICCAI (2021).** [[paper](https://www4.comp.polyu.edu.hk/~csxmwu/papers/MICCAI-2021-Med_VQA.pdf)] [[code](https://github.com/awenbocc/cprd)]
+
+- **MMBERT:** Khare, Yash and Bagal, Viraj and Mathew, Minesh and Devi, Adithi and Priyakumar, U Deva and Jawahar, CV.<br> "Mmbert: Multimodal bert pretraining for improved medical vqa" **ISBI (2021).** [[paper](https://arxiv.org/pdf/2104.01394)] [[code](https://github.com/VirajBagal/MMBERT)]
+
+- **QC-MLB:** Vu, Minh H and Löfstedt, Tommy and Nyholm, Tufve and Sznitman, Raphael.<br> "A question-centric model for visual question answering in medical imaging" **TMI (2020).** [[paper](https://arxiv.org/pdf/2003.08760)]
+
+- **MEVF:** Nguyen, Binh D and Do, Thanh-Toan and Nguyen, Binh X and Do, Tuong and Tjiputra, Erman and Tran, Quang D.<br> "Overcoming data limitation in medical visual question answering" **MICCAI (2019).** [[paper](https://arxiv.org/pdf/1909.11867)] [[code](https://github.com/aioz-ai/MICCAI19-MedVQA)]
+
+### Medical Multi-modal Diagnosis and Prognosis
 
 - **Xplainer:** Pellegrini, Chantal and Keicher, Matthias and {\"O}zsoy, Ege and Jiraskova, Petra and Braren, Rickmer and Navab, Nassir.<br> "Xplainer: From x-ray observations to explainable zero-shot diagnosis" **MICCAI (2023).** [[paper](https://arxiv.org/pdf/2303.13391)] [[code](https://github.com/ChantalMP/Xplainer)]
 
