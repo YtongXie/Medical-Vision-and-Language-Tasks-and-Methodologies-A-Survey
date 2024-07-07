@@ -3,6 +3,142 @@ Medical Vision-and-Language Tasks and Methodologies: A Survey
 
 ## List of related papers and code
 
+### Medical Report Generation
+
+- Yang, Shuxin and Wu, Xian and Ge, Shen and Zheng, Zhuozhao and Zhou, S Kevin and Xiao, Li.<br> "Radiology report generation with a learned knowledge base and multi-modal alignment" **Medical Image Analysis (2023).** [[paper](https://www.sciencedirect.com/science/article/pii/S1361841523000592)] [[code](https://github.com/LX-doctorAI1/M2KT)]
+
+- Szeskin, Adi and Rochman, Shalom and Weiss, Snir and Lederman, Richard and Sosna, Jacob and Joskowicz, Leo.<br> "Liver lesion changes analysis in longitudinal CECT scans by simultaneous deep learning voxel classification with SimU-Net" **Medical Image Analysis (2023).** [[paper](https://www.sciencedirect.com/science/article/pii/S1361841522003036)]
+
+- Zhu, Qingqing and Mathai, Tejas Sudharshan and Mukherjee, Pritam and Peng, Yifan and Summers, Ronald M and Lu, Zhiyong.<br> "Utilizing longitudinal chest x-rays and reports to pre-fill radiology reports" **MICCAI (2023).** [[paper](https://link.springer.com/chapter/10.1007/978-3-031-43904-9_19)] [[code](https://github.com/CelestialShine/Longitudinal-Chest-X-Ray)]
+
+- Dalla Serra, Francesco and Wang, Chaoyang and Deligianni, Fani and Dalton, Jeffrey and O’Neil, Alison Q.<br> "Finding-aware anatomical tokens for chest X-ray automated reporting" **MICCAI (2023).** [[paper](https://link.springer.com/chapter/10.1007/978-3-031-45673-2_41)]
+
+- **KiUT:** Huang, Zhongzhen and Zhang, Xiaofan and Zhang, Shaoting.<br> "Kiut: Knowledge-injected u-transformer for radiology report generation" **CVPR (2023).** [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Huang_KiUT_Knowledge-Injected_U-Transformer_for_Radiology_Report_Generation_CVPR_2023_paper.pdf)]
+
+- **DCL:** Li, Mingjie and Lin, Bingqian and Chen, Zicong and Lin, Haokun and Liang, Xiaodan and Chang, Xiaojun.<br> "Dynamic graph enhanced contrastive learning for chest x-ray report generation" **CVPR (2023).** [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_Dynamic_Graph_Enhanced_Contrastive_Learning_for_Chest_X-Ray_Report_Generation_CVPR_2023_paper.pdf)] [[code](https://github.com/mlii0117/DCL)]
+
+- **RGRG:** Tanida, Tim and Müller, Philip and Kaissis, Georgios and Rueckert, Daniel.<br> "Interactive and explainable region-guided radiology report generation" **CVPR (2023).** [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Tanida_Interactive_and_Explainable_Region-Guided_Radiology_Report_Generation_CVPR_2023_paper.pdf)] [[code](https://github.com/ttanida/rgrg)]
+
+- **METransformer:** Wang, Zhanyu and Liu, Lingqiao and Wang, Lei and Zhou, Luping.<br> "Metransformer: Radiology report generation by transformer with multiple learnable expert tokens" **CVPR (2023).** [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_METransformer_Radiology_Report_Generation_by_Transformer_With_Multiple_Learnable_Expert_CVPR_2023_paper.pdf)]
+
+- **ICT:** Zhang, Junsan and Shen, Xiuxuan and Wan, Shaohua and Goudos, Sotirios K and Wu, Jie and Cheng, Ming and Zhang, Weishan.<br> "A novel deep learning model for medical report generation by inter-intra information calibration" **JBHI (2023).** [[paper](https://ieeexplore.ieee.org/abstract/document/10016250)]
+
+- Zheng, Ervine and Yu, Qi.<br> "Evidential interactive learning for medical image captioning" **ICML (2023).** [[paper](https://proceedings.mlr.press/v202/zheng23g/zheng23g.pdf)]
+
+- **PRIOR:** Cheng, Pujin and Lin, Li and Lyu, Junyan and Huang, Yijin and Luo, Wenhan and Tang, Xiaoying.<br> "Prior: Prototype representation joint learning from medical images and reports" **ICCV (2023).** [[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Cheng_PRIOR_Prototype_Representation_Joint_Learning_from_Medical_Images_and_Reports_ICCV_2023_paper.pdf)] [[code](https://github.com/QtacierP/PRIOR)]
+
+- **MRM:** Zhou, Hong-Yu and Lian, Chenyu and Wang, Liansheng and Yu, Yizhou.<br> "Advancing radiograph representation learning with masked record modeling" **ICLR (2023).** [[paper](https://arxiv.org/pdf/2301.13155)] [[code](https://github.com/RL4M/MRM-pytorch)]
+
+- **MMTN:** Cao, Yiming and Cui, Lizhen and Zhang, Lei and Yu, Fuqiang and Li, Zhen and Xu, Yonghui.<br> "MMTN: multi-modal memory transformer network for image-report consistent medical report generation" **AAAI (2023).** [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/25100)]
+
+- **ATAG:** Yan, Sixing and Cheung, William K and Chiu, Keith and Tong, Terence M and Cheung, Ka Chun and See, Simon.<br> "Attributed abnormality graph embedding for clinically accurate x-ray report generation" **TMI (2023).** [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10045710)]
+
+- Yang, Shuxin and Wu, Xian and Ge, Shen and Zhou, S Kevin and Xiao, Li.<br> "Knowledge matters: Chest radiology report generation with general and specific knowledge" **Medical Image Analysis (2022).** [[paper](https://www.sciencedirect.com/science/article/pii/S1361841522001578)] [[code](https://github.com/LX-doctorAI1/GSKET)]
+
+- **VTI:** Najdenkoska, Ivona and Zhen, Xiantong and Worring, Marcel and Shao, Ling.<br> "Uncertainty-aware report generation for chest X-rays by variational topic inference" **Medical Image Analysis (2022).** [[paper](https://www.sciencedirect.com/science/article/pii/S1361841522002341)] [[code](https://github.com/ivonajdenkoska/variational-xray-report-gen)]
+
+- **TranSQ:** Kong, Ming and Huang, Zhengxing and Kuang, Kun and Zhu, Qiang and Wu, Fei.<br> "Transq: Transformer-based semantic query for medical report generation" **MICCAI (2022).** [[paper](https://link.springer.com/chapter/10.1007/978-3-031-16452-1_58)] [[code](https://github.com/zjukongming/TranSQ)]
+
+- Sun, Jinghan and Wei, Dong and Wang, Liansheng and Zheng, Yefeng.<br> "Lesion guided explainable few weak-shot medical report generation" **MICCAI (2022).** [[paper](https://arxiv.org/pdf/2211.08732)] [[code](https://github.com/jinghanSunn/Few-weak-shot-RG)]
+
+- **MCGN:** Wang, Zhanyu and Tang, Mingkang and Wang, Lei and Li, Xiu and Zhou, Luping.<br> "A medical semantic-assisted transformer for radiographic report generation" **MICCAI (2022).** [[paper](https://arxiv.org/pdf/2208.10358)]
+
+- **SGF:** Li, Jun and Li, Shibo and Hu, Ying and Tao, Huiren.<br> "A self-guided framework for radiology report generation" **MICCAI (2022).** [[paper](https://arxiv.org/pdf/2206.09378)]
+
+- **SGT:** Lin, Chen and Zheng, Shuai and Liu, Zhizhe and Li, Youru and Zhu, Zhenfeng and Zhao, Yao.<br> "Sgt: Scene graph-guided transformer for surgical report generation" **MICCAI (2022).** [[paper](https://liyouru0228.github.io/HomePage/data/SGT.pdf)] [[code](https://github.com/ccccchenllll/SGT_master)]
+
+- **ITA:** Wang, Lin and Ning, Munan and Lu, Donghuan and Wei, Dong and Zheng, Yefeng and Chen, Jie.<br> "An inclusive task-aware framework for radiology report generation" **MICCAI (2022).** [[paper](https://link.springer.com/chapter/10.1007/978-3-031-16452-1_54)] [[code](https://github.com/Reremee/ITA)]
+
+- **RepsNet:** Tanwani, Ajay K and Barral, Joelle and Freedman, Daniel.<br> "Repsnet: Combining vision with language for automated medical reports" **MICCAI (2022).** [[paper](https://arxiv.org/pdf/2209.13171)]
+
+- **CoPlan:** Nishino, Toru and Miura, Yasuhide and Taniguchi, Tomoki and Ohkuma, Tomoko and Suzuki, Yuki and Kido, Shoji and Tomiyama, Noriyuki.<br> "Factual accuracy is not enough: Planning consistent description order for radiology report generation" **EMNLP (2022).** [[paper](https://aclanthology.org/2022.emnlp-main.480.pdf)]
+
+- Delbrouck, Jean-Benoit and Chambon, Pierre and Bluethgen, Christian and Tsai, Emily and Almusa, Omar and Langlotz, Curtis P.<br> "Improving the factual correctness of radiology report generation with semantic rewards" **EMNLP (2022).** [[paper](https://arxiv.org/pdf/2210.12186)] [[code](https://github.com/jbdel/vilmedic)]
+
+- **CGT:** Li, Mingjie and Cai, Wenjia and Verspoor, Karin and Pan, Shirui and Liang, Xiaodan and Chang, Xiaojun.<br> "Cross-modal clinical graph transformer for ophthalmic report generation" **CVPR (2022).** [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Cross-Modal_Clinical_Graph_Transformer_for_Ophthalmic_Report_Generation_CVPR_2022_paper.pdf)]
+
+- **TransFuser:** Huang, Jia-Hong and Wu, Ting-Wei and Yang, C-H Huck and Shi, Zenglin and Lin, I and Tegner, Jesper and Worring, Marcel and others.<br> "Non-local attention improves description generation for retinal images" **WACV (2022).** [[paper](https://openaccess.thecvf.com/content/WACV2022/papers/Huang_Non-Local_Attention_Improves_Description_Generation_for_Retinal_Images_WACV_2022_paper.pdf)]
+
+- **XPRONET:** Wang, Jun and Bhalerao, Abhir and He, Yulan.<br> "Cross-modal prototype driven network for radiology report generation" **ECCV (2022).** [[paper](https://arxiv.org/pdf/2207.04818)] [[code](https://github.com/Markin-Wang/XProNet)]
+
+- **DCNet(EDC-Net):** Singh, Dilbag and Kaur, Manjit and Alanazi, Jazem Mutared and AlZubi, Ahmad Ali and Lee, Heung-No.<br> "Efficient evolving deep ensemble medical image captioning network" **JBHI (2022).** [[paper](https://heungno.net/wp-content/uploads/2023/07/3.-Efficient-Evolving-deep-1.pdf)] [[code]()]
+
+- Yan, Bin and Pei, Mingtao and Zhao, Meng and Shan, Caifeng and Tian, Zhaoxing.<br> "Prior guided transformer for accurate radiology reports generation" **JBHI (2022).** [[paper](https://ieeexplore.ieee.org/abstract/document/9852309)]
+
+- **NSL:** Han, Zhongyi and Wei, Benzheng and Xi, Xiaoming and Chen, Bo and Yin, Yilong and Li, Shuo.<br> "Unifying neural learning and symbolic reasoning for spinal medical report generation" **Medical Image Analysis (2021).** [[paper](https://arxiv.org/pdf/2004.13577)]
+
+- **AlignTransformer:** You, Di and Liu, Fenglin and Ge, Shen and Xie, Xiaoxia and Zhang, Jing and Wu, Xian.<br> "Aligntransformer: Hierarchical alignment of visual regions and disease tags for medical report generation" **MICCAI (2021).** [[paper](https://arxiv.org/pdf/2203.10095)]
+
+- **VTI:** Najdenkoska, Ivona and Zhen, Xiantong and Worring, Marcel and Shao, Ling.<br> "Variational topic inference for chest x-ray report generation" **MICCAI (2021).** [[paper](https://arxiv.org/pdf/2107.07314)]
+
+- **CNN-TRG:** Pino, Pablo and Parra, Denis and Besa, Cecilia and Lagos, Claudio.<br> "Clinically correct report generation from chest x-rays using templates" **MICCAI (2021).** [[paper](https://dparra.sitios.ing.uc.cl/pdfs/preprint_Pinoetal_MICCAI_2021.pdf)]
+
+- **RATCHET:** Hou, Benjamin and Kaissis, Georgios and Summers, Ronald M and Kainz, Bernhard.<br> "Ratchet: Medical transformer for chest x-ray diagnosis and reporting" **MICCAI (2021).** [[paper](https://arxiv.org/pdf/2107.02104)] [[code](https://github.com/farrell236/RATCHET)]
+
+- **CIDA:** Xu, Mengya and Islam, Mobarakol and Lim, Chwee Ming and Ren, Hongliang.<br> "Class-incremental domain adaptation with smoothing and calibration for surgical report generation" **MICCAI (2021).** [[paper](https://arxiv.org/pdf/2107.11091)] [[code](https://github.com/XuMengyaAmy/CIDACaptioning)]
+
+- **:** Nguyen, Hoang TN and Nie, Dong and Badamdorj, Taivanbat and Liu, Yujie and Zhu, Yingying and Truong, Jason and Cheng, Li.<br> "Automated generation of accurate & fluent medical x-ray reports" **EMNLP (2021).** [[paper](https://arxiv.org/pdf/2108.12126)] [[code](https://github.com/ginobilinie/xray_report_generation)]
+
+- **${M^2}$TR. PROGRESSIVE:** Nooralahzadeh, Farhad and Gonzalez, Nicolas Perez and Frauenfelder, Thomas and Fujimoto, Koji and Krauthammer, Michael.<br> "Progressive transformer-based generation of radiology reports" **EMNLP (2021).** [[paper](https://arxiv.org/pdf/2102.09777)] [[code](https://github.com/uzh-dqbm-cmi/ARGON)]
+
+- **CMCL:** Liu, Fenglin and Ge, Shen and Zou, Yuexian and Wu, Xian.<br> "Competence-based multimodal curriculum learning for medical report generation" **ACL (2021).** [[paper](https://arxiv.org/pdf/2206.14579)]]
+
+- **MedWriter:** Yang, Xingyi and Ye, Muchao and You, Quanzeng and Ma, Fenglong.<br> "Writing by memorizing: Hierarchical retrieval-based medical report generation" **ACL (2021).** [[paper](https://arxiv.org/pdf/2106.06471)]
+
+- **CA:** Liu, Fenglin and Yin, Changchang and Wu, Xian and Ge, Shen and Zou, Yuexian and Zhang, Ping and Sun, Xu.<br> "Contrastive attention for automatic chest x-ray report generation" **ACL (2021).** [[paper](https://arxiv.org/pdf/2106.06965)]
+
+- **CMN:** Chen, Zhihong and Shen, Yaling and Song, Yan and Wan, Xiang.<br> "Cross-modal memory networks for radiology report generation" **ACL (2021).** [[paper](https://arxiv.org/pdf/2204.13258)] [[code](https://github.com/zhjohnchan/R2GenCMN)]
+
+- **KGAE:** Liu, Fenglin and You, Chenyu and Wu, Xian and Ge, Shen and Sun, Xu and others.<br> "Auto-encoding knowledge graph for unsupervised medical report generation" **NIPS (2021).** [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/file/876e1c59023b1a0e95808168e1a8ff89-Paper.pdf)]
+
+- **CXR-RePaiR:** Endo, Mark and Krishnan, Rayan and Krishna, Viswesh and Ng, Andrew Y and Rajpurkar, Pranav.<br> "Retrieval-based chest x-ray report generation using a pre-trained contrastive language-image model" **NIPS (2021).** [[paper](https://proceedings.mlr.press/v158/endo21a/endo21a.pdf)]
+
+- **MEDSKIP:** Pahwa, Esha and Mehta, Dwij and Kapadia, Sanjeet and Jain, Devansh and Luthra, Achleshwar.<br> "Medskip: Medical report generation using skip connections and integrated attention" **ICCV (2021).** [[paper](https://openaccess.thecvf.com/content/ICCV2021W/CVAMD/papers/Pahwa_MedSkip_Medical_Report_Generation_Using_Skip_Connections_and_Integrated_Attention_ICCVW_2021_paper.pdf)]
+
+- Zhou, Yi and Huang, Lei and Zhou, Tao and Fu, Huazhu and Shao, Ling.<br> "Visual-textual attentive semantic consistency for medical report generation" **ICCV (2021).** [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhou_Visual-Textual_Attentive_Semantic_Consistency_for_Medical_Report_Generation_ICCV_2021_paper.pdf)]
+
+- **PPKED:** Liu, Fenglin and Wu, Xian and Ge, Shen and Fan, Wei and Zou, Yuexian.<br> "Exploring and distilling posterior and prior knowledge for radiology report generation" **CVPR (2021).** [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Liu_Exploring_and_Distilling_Posterior_and_Prior_Knowledge_for_Radiology_Report_CVPR_2021_paper.pdf)]
+
+- Wang, Zhanyu and Zhou, Luping and Wang, Lei and Li, Xiu.<br> "A self-boosting framework for automated radiographic report generation" **CVPR (2021).** [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_A_Self-Boosting_Framework_for_Automated_Radiographic_Report_Generation_CVPR_2021_paper.pdf)]
+
+- Huang, Jia-Hong and Yang, C-H Huck and Liu, Fangyu and Tian, Meng and Liu, Yi-Chieh and Wu, Ting-Wei and Lin, I and Wang, Kang and Morikawa, Hiromasa and Chang, Hernghua and others.<br> "Deepopht: medical report generation for retinal images via deep models and visual explanation" **WACV (2021).** [[paper](https://openaccess.thecvf.com/content/WACV2021/papers/Huang_DeepOpht_Medical_Report_Generation_for_Retinal_Images_via_Deep_Models_WACV_2021_paper.pdf)]
+
+- **TriNet:** Yang, Yan and Yu, Jun and Zhang, Jian and Han, Weidong and Jiang, Hanliang and Huang, Qingming.<br> "Joint embedding of deep visual and semantic features for medical image report generation" **TMM (2021).** [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9606584)] [[code](https://github.com/yangyan22/Medical-Report-Generation-TriNet)]
+
+- **TS-MRGen:** Nishino, Toru and Ozaki, Ryota and Momoki, Yohei and Taniguchi, Tomoki and Kano, Ryuji and Nakano, Norihisa and Tagawa, Yuki and Taniguchi, Motoki and Ohkuma, Tomoko and Nakamura, Keigo.<br> "Reinforcement learning with imbalanced dataset for data-to-text medical report generation" **EMNLP (2020).** [[paper](https://aclanthology.org/2020.findings-emnlp.202.pdf)] [[code]()]
+
+- **R2Gen:** Chen, Zhihong and Song, Yan and Chang, Tsung-Hui and Wan, Xiang.<br> "Generating radiology reports via memory-driven transformer" **EMNLP (2020).** [[paper](https://arxiv.org/pdf/2010.16056)] [[code](https://github.com/zhjohnchan/R2Gen)]
+
+- Lovelace, Justin and Mortazavi, Bobak.<br> "Learning to generate clinically coherent chest X-ray reports" **EMNLP (2020).** [[paper](https://aclanthology.org/2020.findings-emnlp.110.pdf)]
+
+- **CVSE:** Ni, Jianmo and Hsu, Chun-Nan and Gentili, Amilcare and McAuley, Julian.<br> "Learning visual-semantic embeddings for reporting abnormal findings on chest X-rays" **EMNLP (2020).** [[paper](https://arxiv.org/pdf/2010.02467)]
+
+- Gasimova, Aydan and Seegoolam, Gavin and Chen, Liang and Bentley, Paul and Rueckert, Daniel.<br> "Spatial semantic-preserving latent space learning for accelerated dwi diagnostic report generation" **MICCAI (2020).** [[paper](https://link.springer.com/chapter/10.1007/978-3-030-59728-3_33)]
+
+- Syeda-Mahmood, Tanveer and Wong, Ken CL and Gur, Yaniv and Wu, Joy T and Jadhav, Ashutosh and Kashyap, Satyananda and Karargyris, Alexandros and Pillai, Anup and Sharma, Arjun and Syed, Ali Bin and others.<br> "Chest x-ray report generation through fine-grained label learning" **MICCAI (2020).** [[paper](https://arxiv.org/pdf/2007.13831)]
+
+- Zhang, Yixiao and Wang, Xiaosong and Xu, Ziyue and Yu, Qihang and Yuille, Alan and Xu, Daguang.<br> "When radiology report generation meets knowledge graph" **AAAI (2020).** [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/6989)]
+
+- **KERP:** Li, Christy Y and Liang, Xiaodan and Hu, Zhiting and Xing, Eric P.<br> "Knowledge-driven encode, retrieve, paraphrase for medical image report generation" **MICCAI (2019).** [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/4637)]
+
+- **MvH:** Yuan, Jianbo and Liao, Haofu and Luo, Rui and Luo, Jiebo.<br> "Automatic radiology report generation based on multi-view image fusion and medical concept enrichment" **MICCAI (2019).** [[paper](https://arxiv.org/pdf/1907.09085)]
+
+- **CMAS:** Jing, Baoyu and Wang, Zeya and Xing, Eric.<br> "Show, describe and conclude: On exploiting the structure information of chest x-ray reports" **ACL (2019).** [[paper](https://arxiv.org/pdf/2004.12274)]
+
+- Xue, Yuan and Huang, Xiaolei.<br> "Improved disease classification in chest x-rays with transferred features from report generation" **IPMI (2019).** [[paper](https://faculty.ist.psu.edu/suh972/Xue-IPMI2019.pdf)]
+
+- Daniels, Zachary A and Metaxas, Dimitris N.<br> "Exploiting visual and report-based information for chest x-ray analysis by jointly learning visual classifiers and topic models" **ISBI (2019).** [[paper](https://par.nsf.gov/servlets/purl/10105312)]
+
+- **RGAN:** Han, Zhongyi and Wei, Benzheng and Leung, Stephanie and Chung, Jonathan and Li, Shuo.<br> "Towards automatic report generation in spine radiology using weakly supervised framework" **MICCAI (2018).** [[paper](http://digitalimaginggroup.ca/members/Shuo/miccai2018-hanzhongyi.pdf)]
+
+- Xue, Yuan and Xu, Tao and Rodney Long, L and Xue, Zhiyun and Antani, Sameer and Thoma, George R and Huang, Xiaolei.<br> "Multimodal recurrent model with attention for automated radiology report generation" **MICCAI (2018).** [[paper](https://faculty.ist.psu.edu/suh972/Xue-MICCAI2018.pdf)]
+
+- Jing, Baoyu and Xie, Pengtao and Xing, Eric.<br> "On the automatic generation of medical imaging reports" **ACL (2018).** [[paper](https://arxiv.org/pdf/1711.08195)]
+
+- **HRGR-Agent:** Li, Yuan and Liang, Xiaodan and Hu, Zhiting and Xing, Eric P.<br> "Hybrid retrieval-generation reinforced agent for medical image report generation" **NIPS (2018).** [[paper](https://proceedings.neurips.cc/paper/2018/file/e07413354875be01a996dc560274708e-Paper.pdf)]
+
+- **TieNet:** Wang, Xiaosong and Peng, Yifan and Lu, Le and Lu, Zhiyong and Summers, Ronald M.<br> "Tienet: Text-image embedding network for common thorax disease classification and reporting in chest x-rays" **CVPR (2018).** [[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_TieNet_Text-Image_Embedding_CVPR_2018_paper.pdf)]
+
 ### Medical Visual Question Answering
 
 - **MUMC:** Li, Pengfei and Liu, Gang and He, Jinlong and Zhao, Zixu and Zhong, Shenjun.<br> "Masked vision and language pre-training with unimodal and multimodal contrastive losses for medical visual question answering" **MICCAI (2023).** [[paper](https://arxiv.org/pdf/2307.05314)] [[code](https://github.com/pengfeiliHEU/MUMC)]
