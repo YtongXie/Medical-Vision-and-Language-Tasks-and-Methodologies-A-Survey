@@ -9,7 +9,6 @@ Medical Vision-and-Language Tasks and Methodologies: A Survey
 - [Medical Image Segmentation](#medical-image-segmentation)
 - [Medical Image-Text Retrieval](#medical-image-text-retrieval)
 
-[[paper]()] [[code]()]
 
 ## Medical Vision-Language Pre-training
 
@@ -19,7 +18,8 @@ Medical Vision-and-Language Tasks and Methodologies: A Survey
 - **CheXzero:**  "Expert-level detection of pathologies from unannotated chest X-ray images via self-supervised learning" **Nature (2022).** [[paper](https://www.nature.com/articles/s41551-022-00936-9)] [[code](https://github.com/rajpurkarlab/CheXzero)]
 - **BiomedCLIP:** "a multimodal biomedical foundation model pretrained from fifteen million scientific image-text pairs." **arXiv (2023)** [[paper](https://arxiv.org/pdf/2303.00915)] [[huggingface](https://huggingface.co/microsoft/BiomedCLIP-PubMedBERT_256-vit_base_patch16_224)]
 - **PLIP:** "A visual–language foundation model for pathology image analysis using medical Twitter" **Nature (2023)** [[paper](https://www.nature.com/articles/s41591-023-02504-3)] [[code](https://github.com/PathologyFoundation/plip)]
-- **BioViL:** "Making the Most of Text Semantics to Improve Biomedical Vision–Language Processing" **ECCV (2022)** [[paper](https://link.springer.com/chapter/10.1007/978-3-031-20059-5_1)] [[code](https://github.com/microsoft/hi-ml/tree/main/hi-ml-multimodal)]
+- **BioViL:** "Making the Most of Text Semantics to Improve Biomedical Vision–Language Processing" **ECCV (2022)** [[paper]([https://link.springer.com/chapter/10.1007/978-3-031-20059-5_1](https://arxiv.org/pdf/2204.09817))] [[code](https://github.com/microsoft/hi-ml/tree/main/hi-ml-multimodal)]
+- **BilViL-T:** "Learning to Exploit Temporal Structure for Biomedical Vision–Language Processing" **CVPR (2023)** [[paper](https://arxiv.org/pdf/2301.04558)] [[code](https://github.com/microsoft/hi-ml/tree/main/hi-ml-multimodal)]
 - **MGCA:** "Multi-Granularity Cross-modal Alignment for Generalized Medical Visual Representation Learning" "Neurips (2022) [[paper](https://arxiv.org/pdf/2210.06044)] [[code](https://github.com/HKU-MedAI/MGCA)]
 - **MedCLIP:** "Medclip: Contrastive learning from unpaired medical images and text. " **EMNLP (2022) [[paper](https://arxiv.org/pdf/2210.10163)] [[code](https://github.com/RyanWangZf/MedCLIP)]
 - **M2I2:** "Self-supervised vision-language pretraining for Medical visual question answering" **ISBI (2023)** [[paper](https://arxiv.org/pdf/2211.13594)] [[code](https://github.com/pengfeiliHEU/M2I2)]
@@ -30,9 +30,23 @@ Medical Vision-and-Language Tasks and Methodologies: A Survey
 - **KoBo:** "Knowledge Boosting: Rethinking Medical Contrastive Vision-Language Pre-training" **MICCAI (2023)** [[paper](https://arxiv.org/pdf/2307.07246)] [[code](https://github.com/ChenXiaoFei-CS/KoBo)]
 - **PTUnifier:** "Towards Unifying Medical Vision-and-Language Pre-training via Soft Prompts" **ICCV (2023)** [[paper](https://arxiv.org/pdf/2302.08958)] [[code](https://github.com/zhjohnchan/PTUnifier)]
 - **GLoRIA:** "GLoRIA: A Multimodal Global-Local Representation Learning Framework for Label-efficient Medical Image Recognition" [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Huang_GLoRIA_A_Multimodal_Global-Local_Representation_Learning_Framework_for_Label-Efficient_Medical_ICCV_2021_paper.pdf)] [[code](https://github.com/marshuang80/gloria)]
+- **JoImTeRNet:** "Improving joint learning of chest x-ray and radiology report by word region alignment" **MLMI (2021)** [[paper]([https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9134785/](https://link.springer.com/chapter/10.1007/978-3-030-87589-3_12))] [[code](https://github.com/mshaikh2/JoImTeR_MLMI_2021)]
+- "Breaking with Fixed Set Pathology Recognition through Report-Guided Contrastive Training" **MICCAI (2022)** [[paper](https://arxiv.org/pdf/2205.07139)]
+- "Multimodal Representation Learning via Maximization of Local Mutual Information" **MICCAI (2021) [[paper](https://arxiv.org/pdf/2103.04537)] [[code](https://github.com/RayRuizhiLiao/mutual_info_img_txt)]
+- **LoVT:** "Joint Learning of Localized Representations from Medical Images and Reports" **ECCV (2022)** [[paper](https://arxiv.org/pdf/2112.02889)] [[code](https://github.com/philip-mueller/lovt)]
+- **ELVIS:** "ELVIS: Empowering Locality of Vision Language Pre-training with Intra-modal Similarity" **ArXiv (2023)** [[paper](https://arxiv.org/pdf/2304.05303)]
+- **MUMUC:** "Masked Vision and Language Pre-training with Unimodal and Multimodal Contrastive Losses for Medical Visual Question Answering" **MICCAI (2023)** [[paper](https://arxiv.org/pdf/2307.05314)] [[code](https://github.com/pengfeiliHEU/MUMC)]
+- **CXR-CLIP:** "CXR-CLIP: Toward Large Scale Chest X-ray Language-Image Pre-training" **MICCAI (2023)** [[paper](https://arxiv.org/pdf/2310.13292)] [[code](https://github.com/kakaobrain/cxr-clip)]
 - **
 
 
+
+
+
+
+
+
+[[paper]()] [[code]()]
 
 
 
