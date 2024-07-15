@@ -37,9 +37,31 @@ Medical Vision-and-Language Tasks and Methodologies: A Survey
 - **ELVIS:** "ELVIS: Empowering Locality of Vision Language Pre-training with Intra-modal Similarity" **ArXiv (2023)** [[paper](https://arxiv.org/pdf/2304.05303)]
 - **MUMUC:** "Masked Vision and Language Pre-training with Unimodal and Multimodal Contrastive Losses for Medical Visual Question Answering" **MICCAI (2023)** [[paper](https://arxiv.org/pdf/2307.05314)] [[code](https://github.com/pengfeiliHEU/MUMC)]
 - **CXR-CLIP:** "CXR-CLIP: Toward Large Scale Chest X-ray Language-Image Pre-training" **MICCAI (2023)** [[paper](https://arxiv.org/pdf/2310.13292)] [[code](https://github.com/kakaobrain/cxr-clip)]
-- **
-
-
+- **MedViLL:** "Multi-modal Understanding and Generation for Medical Images and Text via Vision-Language Pre-Training" **JBHI (2022)** [[paper](https://arxiv.org/pdf/2105.11333)] [[code](https://github.com/SuperSupermoon/MedViLL)]
+- **M3AE:** "Multi-modal Masked Autoencoders for Medical Vision-and-Language Pre-training" **MICCAI (2022)** [[paper](https://arxiv.org/pdf/2205.14204)] [[code](https://github.com/young-geng/m3ae_public)]
+- **MRM:** "Advancing Radiograph Representation Learning with Masked Record Modeling" **ICLR (2023)** [[paper](https://arxiv.org/pdf/2301.13155)] [[code](https://github.com/RL4M/MRM-pytorch)]
+- **Clinical-BERT:** "Clinical-BERT: Vision-Language Pre-training for Radiograph Diagnosis and Reports Generation" **AAAI (2022)** [[paper](https://cdn.aaai.org/ojs/20204/20204-13-24217-1-2-20220628.pdf)]
+- **MMBERT:** "MMBERT: Multimodal BERT Pretraining for Improved Medical VQA" **ISBI (2021)** [[paper]()] [[code](https://github.com/VirajBagal/MMBERT)]
+- **CMITM:** "Contrastive Masked Image-Text Modeling for Medical Visual Representation Learning" **MICCAI (2023)** [[paper](https://link.springer.com/chapter/10.1007/978-3-031-43904-9_48)] [[code](https://github.com/cchen-cc/CMITM)]
+- **MaCo:** "Enhancing Representation in Radiography-Reports Foundation Model: A Granular Alignment Algorithm Using Masked Contrastive Learning" **ArXiV (2023)** [[paper](https://arxiv.org/pdf/2309.05904)] [[code](https://github.com/SZUHvern/MaCo)]
+- **MedKLIP:** "MedKLIP: Medical Knowledge Enhanced Language-Image Pre-Training in Radiology" **ICCV (2023)** [[paper](https://arxiv.org/pdf/2301.02228)] [[code](https://github.com/MediaBrain-SJTU/MedKLIP)]
+- **KAD:** "Knowledge-enhanced Visual-Language Pre-training on Chest Radiology Images" **ArXiv (2023)** [[paper](https://arxiv.org/pdf/2302.14042)] [[code](https://github.com/xiaoman-zhang/KAD)]
+- **ARL:** "Align, Reason and Learn: Enhancing Medical Vision-and-Language Pre-training with Knowledge" **ACMMM (2022)** [[paper](https://arxiv.org/pdf/2209.07118)] [[code](https://github.com/zhjohnchan/ARL)]
+- **MedIM:** "MedIM: Boost Medical Image Representation via Radiology Report-Guided Masking" **MICCAI (2023)** [[paper](https://link.springer.com/chapter/10.1007/978-3-031-43907-0_2)] [[code](https://github.com/YtongXie/MedIM)]
+- **BioBridge:** "BioBridge: Bridging Biomedical Foundation Models via Knowledge Graphs" **ICLR (2024)** [[paper](https://arxiv.org/pdf/2310.03320)] [[code](https://github.com/RyanWangZf/BioBridge)]
+- **MedEPT:** "Harnessing the Power of Pre-trained Vision-Language Models for Efficient Medical Report Generation" **CIKM (2023)** [[paper](https://dl.acm.org/doi/pdf/10.1145/3583780.3614961)]
+- **FedMedVLP:** "Scaling-up medical vision-and-language representation learning with federated learning" **EAAI (2023)** [[paper](https://www.sciencedirect.com/science/article/pii/S0952197623012216)]
+- **BiomedGPT:** "BiomedGPT: A Unified and Generalist Biomedical Generative Pre-trained Transformer for Vision, Language, and Multimodal Tasks" **ArXiv (2023)** [[paper](https://arxiv.org/pdf/2305.17100)] [[code](https://github.com/taokz/BiomedGPT)]
+- **LLaVA-Med:** "LLaVA-Med: Training a Large Language-and-Vision Assistant for Biomedicine in One Day" **Neurips Dataset and Benchmarks Track (2023)** [[paper](https://arxiv.org/pdf/2306.00890)] [[code](https://github.com/microsoft/LLaVA-Med)]
+- **Med-Flamingo:** "Med-Flamingo: a Multimodal Medical Few-shot Learner" **PMLR (2023)** [[paper](https://arxiv.org/pdf/2307.15189)] [[code](https://github.com/snap-stanford/med-flamingo)]
+- **Med_PaLM M:** "Towards Generalist Biomedical AI" **NEJM (2024)** [[paper](https://arxiv.org/pdf/2307.14334)] [[code](https://github.com/kyegomez/Med-PaLM)]
+- **RadFM:** "Towards Generalist Foundation Model for Radiology by Leveraging Web-scale 2D&3D Medical Data" **ArXiv (2023)** [[paper](https://arxiv.org/pdf/2308.02463)] [[code](https://github.com/chaoyi-wu/RadFM)]
+- **CheXagent:** "CheXagent: Towards a Foundation Model for Chest X-Ray Interpretation" **ArXiv (2024)** [[paper](https://arxiv.org/pdf/2401.12208)] [[code](https://github.com/Stanford-AIMI/CheXagent)]
+- **LLaVA-Rad:** "Towards a clinically accessible radiology foundation model: open-access and lightweight, with automated evaluation" **ArXiv (2024)** [[paper](https://arxiv.org/pdf/2403.08002)]
+- **Med-Gemini:** "Capabilities of Gemini Models in Medicine" **ArXiV (2024)** [[paper](https://arxiv.org/pdf/2404.18416)]
+- **Flamingo-CXR:** "Consensus, dissensus and synergy between clinicians and specialist foundation models in radiology report generation" **ArXiV (2023)** [[paper](https://arxiv.org/pdf/2311.18260)]
+- **XrayGPT:** "XrayGPT: Chest Radiographs Summarization using Medical Vision-Language Models" **ArXiV (2023)** [[paper](https://arxiv.org/pdf/2306.07971)] [[code](https://github.com/mbzuai-oryx/XrayGPT)]
+- **LLM-CXR:** "LLM-CXR: Instruction-Finetuned LLM for CXR Image Understanding and Generation" **ICLR (2024)** [[paper](https://arxiv.org/pdf/2305.11490)] [[code](https://github.com/hyn2028/llm-cxr)]
 
 
 
