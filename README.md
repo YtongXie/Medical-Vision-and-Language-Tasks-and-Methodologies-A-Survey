@@ -2,12 +2,16 @@
 Medical Vision-and-Language Tasks and Methodologies: A Survey
 
 # Table of Contents
-- [Medical Vision-Language Pre-training](###VLP)
+- [Medical Vision-Language Pre-training](VLP)
 - [Medical Report Generation](###MRG)
+- [Medical Visual Question Answering](###VQA)
+- [Medical Multi-modal Diagnosis and Prognosis](###disgnosis-prognosis)
+- [Medical Image Segmentation](###segmentation)
+- [Medical Image-Text Retrieval](###retrieval)
 
 ## List of related papers and code
 
-### VLP
+### Medical Vision-Language Pre-training
 
 ### Medical Report Generation
 
@@ -145,7 +149,7 @@ Medical Vision-and-Language Tasks and Methodologies: A Survey
 
 - **TieNet:** Wang, Xiaosong and Peng, Yifan and Lu, Le and Lu, Zhiyong and Summers, Ronald M.<br> "Tienet: Text-image embedding network for common thorax disease classification and reporting in chest x-rays" **CVPR (2018).** [[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_TieNet_Text-Image_Embedding_CVPR_2018_paper.pdf)]
 
-### Medical Visual Question Answering
+ Medical Visual Question Answering
 
 - **MUMC:** Li, Pengfei and Liu, Gang and He, Jinlong and Zhao, Zixu and Zhong, Shenjun.<br> "Masked vision and language pre-training with unimodal and multimodal contrastive losses for medical visual question answering" **MICCAI (2023).** [[paper](https://arxiv.org/pdf/2307.05314)] [[code](https://github.com/pengfeiliHEU/MUMC)]
 
@@ -189,7 +193,7 @@ Medical Vision-and-Language Tasks and Methodologies: A Survey
 
 - **MEVF:** Nguyen, Binh D and Do, Thanh-Toan and Nguyen, Binh X and Do, Tuong and Tjiputra, Erman and Tran, Quang D.<br> "Overcoming data limitation in medical visual question answering" **MICCAI (2019).** [[paper](https://arxiv.org/pdf/1909.11867)] [[code](https://github.com/aioz-ai/MICCAI19-MedVQA)]
 
-### Medical Multi-modal Diagnosis and Prognosis
+ Medical Multi-modal Diagnosis and Prognosis
 
 - **Xplainer:** Pellegrini, Chantal and Keicher, Matthias and {\"O}zsoy, Ege and Jiraskova, Petra and Braren, Rickmer and Navab, Nassir.<br> "Xplainer: From x-ray observations to explainable zero-shot diagnosis" **MICCAI (2023).** [[paper](https://arxiv.org/pdf/2303.13391)] [[code](https://github.com/ChantalMP/Xplainer)]
 
@@ -241,7 +245,7 @@ Medical Vision-and-Language Tasks and Methodologies: A Survey
 
 - Pelka, Obioma and Nensa, Felix and Friedrich, Christoph M.<br> "Branding-fusion of meta data and musculoskeletal radiographs for multi-modal diagnostic recognition" **ICCV (2019).** [[paper](https://openaccess.thecvf.com/content_ICCVW_2019/papers/VRMI/Pelka_Branding_-_Fusion_of_Meta_Data_and_Musculoskeletal_Radiographs_for_ICCVW_2019_paper.pdf)]
 
-### Medical Image Segmentation
+ Medical Image Segmentation
 
 - **LViT:** Li, Zihan and Li, Yunxiang and Li, Qingde and Wang, Puyang and Guo, Dazhou and Lu, Le and Jin, Dakai and Zhang, You and Hong, Qingqi.<br> "Lvit: language meets vision transformer in medical image segmentation" **TMI (2024).** [[paper](https://arxiv.org/pdf/2206.14718)] [[code](https://github.com/HUANGLIZI/LViT)]
 
@@ -276,3 +280,8 @@ Medical Vision-and-Language Tasks and Methodologies: A Survey
 - **DTAN:** Zhao, Yiyang and Li, Jinjiang and Ren, Lu and Chen, Zheng.<br> "DTAN: Diffusion-based Text Attention Network for medical image segmentation" **Computers in Biology and Medicine (2024).** [[paper](https://www.sciencedirect.com/science/article/pii/S0010482523011939)]
 
 - **TGEDiff:** Dong, Zhiwei and Yuan, Genji and Hua, Zhen and Li, Jinjiang.<br> "Diffusion model-based text-guided enhancement network for medical image segmentation" **Expert Systems with Applications (2024).** [[paper](https://www.sciencedirect.com/science/article/pii/S0957417424004147)]
+
+
+
+
+### Medical Image-Text Retrieval
