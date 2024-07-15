@@ -35,7 +35,7 @@ Medical Vision-and-Language Tasks and Methodologies: A Survey
 - "Multimodal Representation Learning via Maximization of Local Mutual Information" **MICCAI (2021) [[paper](https://arxiv.org/pdf/2103.04537)] [[code](https://github.com/RayRuizhiLiao/mutual_info_img_txt)]
 - **LoVT:** "Joint Learning of Localized Representations from Medical Images and Reports" **ECCV (2022)** [[paper](https://arxiv.org/pdf/2112.02889)] [[code](https://github.com/philip-mueller/lovt)]
 - **ELVIS:** "ELVIS: Empowering Locality of Vision Language Pre-training with Intra-modal Similarity" **ArXiv (2023)** [[paper](https://arxiv.org/pdf/2304.05303)]
-- **MUMUC:** "Masked Vision and Language Pre-training with Unimodal and Multimodal Contrastive Losses for Medical Visual Question Answering" **MICCAI (2023)** [[paper](https://arxiv.org/pdf/2307.05314)] [[code](https://github.com/pengfeiliHEU/MUMC)]
+- **MUMUC:** "Masked Vision and Language Pre-training with Unimodal and Multimodal Contrastive Losses for ring" **MICCAI (2023)** [[paper](https://arxiv.org/pdf/2307.05314)] [[code](https://github.com/pengfeiliHEU/MUMC)]
 - **CXR-CLIP:** "CXR-CLIP: Toward Large Scale Chest X-ray Language-Image Pre-training" **MICCAI (2023)** [[paper](https://arxiv.org/pdf/2310.13292)] [[code](https://github.com/kakaobrain/cxr-clip)]
 - **MedViLL:** "Multi-modal Understanding and Generation for Medical Images and Text via Vision-Language Pre-Training" **JBHI (2022)** [[paper](https://arxiv.org/pdf/2105.11333)] [[code](https://github.com/SuperSupermoon/MedViLL)]
 - **M3AE:** "Multi-modal Masked Autoencoders for Medical Vision-and-Language Pre-training" **MICCAI (2022)** [[paper](https://arxiv.org/pdf/2205.14204)] [[code](https://github.com/young-geng/m3ae_public)]
@@ -209,7 +209,7 @@ Medical Vision-and-Language Tasks and Methodologies: A Survey
 
 - **TieNet:** Wang, Xiaosong and Peng, Yifan and Lu, Le and Lu, Zhiyong and Summers, Ronald M.<br> "Tienet: Text-image embedding network for common thorax disease classification and reporting in chest x-rays" **CVPR (2018).** [[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_TieNet_Text-Image_Embedding_CVPR_2018_paper.pdf)]
 
- Medical Visual Question Answering
+## Medical Visual Question Answering
 
 - **MUMC:** Li, Pengfei and Liu, Gang and He, Jinlong and Zhao, Zixu and Zhong, Shenjun.<br> "Masked vision and language pre-training with unimodal and multimodal contrastive losses for medical visual question answering" **MICCAI (2023).** [[paper](https://arxiv.org/pdf/2307.05314)] [[code](https://github.com/pengfeiliHEU/MUMC)]
 
@@ -253,7 +253,7 @@ Medical Vision-and-Language Tasks and Methodologies: A Survey
 
 - **MEVF:** Nguyen, Binh D and Do, Thanh-Toan and Nguyen, Binh X and Do, Tuong and Tjiputra, Erman and Tran, Quang D.<br> "Overcoming data limitation in medical visual question answering" **MICCAI (2019).** [[paper](https://arxiv.org/pdf/1909.11867)] [[code](https://github.com/aioz-ai/MICCAI19-MedVQA)]
 
- Medical Multi-modal Diagnosis and Prognosis
+## Medical Multi-modal Diagnosis and Prognosis
 
 - **Xplainer:** Pellegrini, Chantal and Keicher, Matthias and {\"O}zsoy, Ege and Jiraskova, Petra and Braren, Rickmer and Navab, Nassir.<br> "Xplainer: From x-ray observations to explainable zero-shot diagnosis" **MICCAI (2023).** [[paper](https://arxiv.org/pdf/2303.13391)] [[code](https://github.com/ChantalMP/Xplainer)]
 
@@ -305,7 +305,7 @@ Medical Vision-and-Language Tasks and Methodologies: A Survey
 
 - Pelka, Obioma and Nensa, Felix and Friedrich, Christoph M.<br> "Branding-fusion of meta data and musculoskeletal radiographs for multi-modal diagnostic recognition" **ICCV (2019).** [[paper](https://openaccess.thecvf.com/content_ICCVW_2019/papers/VRMI/Pelka_Branding_-_Fusion_of_Meta_Data_and_Musculoskeletal_Radiographs_for_ICCVW_2019_paper.pdf)]
 
- Medical Image Segmentation
+## Medical Image Segmentation
 
 - **LViT:** Li, Zihan and Li, Yunxiang and Li, Qingde and Wang, Puyang and Guo, Dazhou and Lu, Le and Jin, Dakai and Zhang, You and Hong, Qingqi.<br> "Lvit: language meets vision transformer in medical image segmentation" **TMI (2024).** [[paper](https://arxiv.org/pdf/2206.14718)] [[code](https://github.com/HUANGLIZI/LViT)]
 
