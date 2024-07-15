@@ -14,7 +14,6 @@ Medical Vision-and-Language Tasks and Methodologies: A Survey
 
 
 - **ConVIRT:** "Contrastive Learning of Medical Visual Representations from Paired Images and Text" **PMLR (2022)** [[paper](https://proceedings.mlr.press/v182/zhang22a/zhang22a.pdf)] [[code](https://github.com/yuhaozhang/convirt)]
-  
 - **CheXzero:**  "Expert-level detection of pathologies from unannotated chest X-ray images via self-supervised learning" **Nature (2022).** [[paper](https://www.nature.com/articles/s41551-022-00936-9)] [[code](https://github.com/rajpurkarlab/CheXzero)]
 - **BiomedCLIP:** "a multimodal biomedical foundation model pretrained from fifteen million scientific image-text pairs." **arXiv (2023)** [[paper](https://arxiv.org/pdf/2303.00915)] [[huggingface](https://huggingface.co/microsoft/BiomedCLIP-PubMedBERT_256-vit_base_patch16_224)]
 - **PLIP:** "A visual–language foundation model for pathology image analysis using medical Twitter" **Nature (2023)** [[paper](https://www.nature.com/articles/s41591-023-02504-3)] [[code](https://github.com/PathologyFoundation/plip)]
@@ -70,11 +69,12 @@ Medical Vision-and-Language Tasks and Methodologies: A Survey
 - **PathAlign:** "PathAlign: A vision-language model for whole slide images in histopathology" **ArXiV (2024)** [[paper](https://arxiv.org/pdf/2406.19578)]
 - **FiVE:** "Generalizable Whole Slide Image Classification with Fine-Grained Visual-Semantic Interaction" **CVPR (2024)** [[paper](https://arxiv.org/pdf/2402.19326)]
 - **MedBLIP:** "MedBLIP: Bootstrapping Language-Image Pre-training from 3D Medical Images and Texts" **ArXiV (2023)** [[paper](https://arxiv.org/pdf/2305.10799)] [[code](https://github.com/qybc/medblip)]
-- **T3D:**
-- **CT-RATE:**
+- **T3D:** "T3D: Towards 3D Medical Image Understanding through Vision-Language Pre-training" **ArXiv (2023)** [[paper](https://arxiv.org/pdf/2312.01529)]
+- **CT-CLIP:** "A foundation model utilizing chest CT volumes and radiology reports for supervised-level zero-shot detection of abnormalities" **ArXiV (2024)** [[paper](https://arxiv.org/pdf/2403.17834)] [[code](https://github.com/ibrahimethemhamamci/CT-CLIP)]
 - **SurgVLP:** "Learning Multi-modal Representations by Watching Hundreds of Surgical Video Lectures" **** [[paper](https://arxiv.org/pdf/2307.15220)] [[code](https://github.com/CAMMA-public/SurgVLP)]
-
-
+- "Text Promptable Surgical Instrument Segmentation with Vision-Language Models" **Neurips (20234)** [[paper](https://arxiv.org/pdf/2306.09244)] [[code](https://github.com/franciszzj/TP-SIS)]
+- **Med-UniC:** "Med-UniC: Unifying Cross-Lingual Medical Vision-Language Pre-Training by Diminishing Bias" **Neurips (2023)** [[paper](https://arxiv.org/pdf/2305.19894)] [[code](https://github.com/SUSTechBruce/Med-UniC)]
+- **UNI:** "Towards a general-purpose foundation model for computational pathology" **Nature Medicine (2024)** [[paper](https://arxiv.org/pdf/2308.15474)] [[code](https://github.com/mahmoodlab/UNI)]
 
 
 
