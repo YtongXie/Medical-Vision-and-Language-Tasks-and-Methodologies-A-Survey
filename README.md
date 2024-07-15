@@ -1,7 +1,13 @@
 # Medical-Vision-and-Language-Tasks-and-Methodologies-A-Survey
 Medical Vision-and-Language Tasks and Methodologies: A Survey
 
+# Table of Contents
+- [Medical Vision-Language Pre-training](###VLP)
+- [Medical Report Generation](###MRG)
+
 ## List of related papers and code
+
+### VLP
 
 ### Medical Report Generation
 
