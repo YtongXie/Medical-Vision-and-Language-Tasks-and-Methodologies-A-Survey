@@ -9,13 +9,34 @@ Medical Vision-and-Language Tasks and Methodologies: A Survey
 - [Medical Image Segmentation](#medical-image-segmentation)
 - [Medical Image-Text Retrieval](#medical-image-text-retrieval)
 
+[[paper]()] [[code]()]
 
 ## Medical Vision-Language Pre-training
 
-[[paper]()] [[code]()]
 
-- **ConVIRT:** "Contrastive Learning of Medical Visual Representations from Paired Images and Text" **PMLR (2022).** [[paper](https://proceedings.mlr.press/v182/zhang22a/zhang22a.pdf)] [[code](https://github.com/yuhaozhang/convirt)]
+- **ConVIRT:** "Contrastive Learning of Medical Visual Representations from Paired Images and Text" **PMLR (2022)** [[paper](https://proceedings.mlr.press/v182/zhang22a/zhang22a.pdf)] [[code](https://github.com/yuhaozhang/convirt)]
+  
 - **CheXzero:**  "Expert-level detection of pathologies from unannotated chest X-ray images via self-supervised learning" **Nature (2022).** [[paper](https://www.nature.com/articles/s41551-022-00936-9)] [[code](https://github.com/rajpurkarlab/CheXzero)]
+- **BiomedCLIP:** "a multimodal biomedical foundation model pretrained from fifteen million scientific image-text pairs." **arXiv (2023)** [[paper](https://arxiv.org/pdf/2303.00915)] [[huggingface](https://huggingface.co/microsoft/BiomedCLIP-PubMedBERT_256-vit_base_patch16_224)]
+- **PLIP:** "A visual–language foundation model for pathology image analysis using medical Twitter" **Nature (2023)** [[paper](https://www.nature.com/articles/s41591-023-02504-3)] [[code](https://github.com/PathologyFoundation/plip)]
+- **BioViL:** "Making the Most of Text Semantics to Improve Biomedical Vision–Language Processing" **ECCV (2022)** [[paper](https://link.springer.com/chapter/10.1007/978-3-031-20059-5_1)] [[code](https://github.com/microsoft/hi-ml/tree/main/hi-ml-multimodal)]
+- **MGCA:** "Multi-Granularity Cross-modal Alignment for Generalized Medical Visual Representation Learning" "Neurips (2022) [[paper](https://arxiv.org/pdf/2210.06044)] [[code](https://github.com/HKU-MedAI/MGCA)]
+- **MedCLIP:** "Medclip: Contrastive learning from unpaired medical images and text. " **EMNLP (2022) [[paper](https://arxiv.org/pdf/2210.10163)] [[code](https://github.com/RyanWangZf/MedCLIP)]
+- **M2I2:** "Self-supervised vision-language pretraining for Medical visual question answering" **ISBI (2023)** [[paper](https://arxiv.org/pdf/2211.13594)] [[code](https://github.com/pengfeiliHEU/M2I2)]
+- **PMC-CLIP:** "PMC-CLIP: Contrastive Language-Image Pre-training Using Biomedical Documents" **MICCAI (2023)** [[paper]([https://link.springer.com/chapter/10.1007/978-3-031-43993-3_51](https://arxiv.org/pdf/2303.07240))] [[code](https://github.com/WeixiongLin/PMC-CLIP)]
+- **Medical X-VL:** "Self-supervised Multi-modal Training from Uncurated Image and Reports Enables Zero-shot Oversight Artificial Intelligence in Radiology" **ArXiv (2023)** [[paper](https://arxiv.org/pdf/2208.05140)] [[code](https://github.com/sangjoon-park/Medical_X-VL)]
+- **IMITATE:** "IMITATE: Clinical Prior Guided Hierarchical Vision-Language Pre-training" **ArXiv (2023)** [[paper](https://arxiv.org/pdf/2310.07355)]
+- **SAT:** "Improving Medical Vision-Language Contrastive Pretraining with Semantics-aware Triage" **TMI (2023)** [[paper](https://pubmed.ncbi.nlm.nih.gov/37440389/)]
+- **KoBo:** "Knowledge Boosting: Rethinking Medical Contrastive Vision-Language Pre-training" **MICCAI (2023)** [[paper](https://arxiv.org/pdf/2307.07246)] [[code](https://github.com/ChenXiaoFei-CS/KoBo)]
+- **PTUnifier:** "Towards Unifying Medical Vision-and-Language Pre-training via Soft Prompts" **ICCV (2023)** [[paper](https://arxiv.org/pdf/2302.08958)] [[code](https://github.com/zhjohnchan/PTUnifier)]
+- **GLoRIA:** "GLoRIA: A Multimodal Global-Local Representation Learning Framework for Label-efficient Medical Image Recognition" [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Huang_GLoRIA_A_Multimodal_Global-Local_Representation_Learning_Framework_for_Label-Efficient_Medical_ICCV_2021_paper.pdf)] [[code](https://github.com/marshuang80/gloria)]
+- **
+
+
+
+
+
+  
 ## Medical Report Generation
 
 - Yang, Shuxin and Wu, Xian and Ge, Shen and Zheng, Zhuozhao and Zhou, S Kevin and Xiao, Li.<br> "Radiology report generation with a learned knowledge base and multi-modal alignment" **Medical Image Analysis (2023).** [[paper](https://www.sciencedirect.com/science/article/pii/S1361841523000592)] [[code](https://github.com/LX-doctorAI1/M2KT)]
