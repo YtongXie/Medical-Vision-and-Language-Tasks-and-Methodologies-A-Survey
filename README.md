@@ -1,5 +1,6 @@
-# Medical-Vision-and-Language-Tasks-and-Methodologies-A-Survey
-Medical Vision-and-Language Tasks and Methodologies: A Survey
+# <p align=center>`Medical Vision-and-Language Tasks and Methodologies: A Survey`</p>
+
+:fire::fire: This is a collection of medical vision-language tasks and methodologies:fire::fire:
 
 # Table of Contents
 - [Medical Vision-Language Pre-training](#medical-vision-language-pre-training)
