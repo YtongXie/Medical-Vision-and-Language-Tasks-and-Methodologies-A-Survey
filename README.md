@@ -51,6 +51,7 @@ Medical Vision-and-Language Tasks and Methodologies: A Survey
 - **BioBridge:** "BioBridge: Bridging Biomedical Foundation Models via Knowledge Graphs" **ICLR (2024)** [[paper](https://arxiv.org/pdf/2310.03320)] [[code](https://github.com/RyanWangZf/BioBridge)]
 - **MedEPT:** "Harnessing the Power of Pre-trained Vision-Language Models for Efficient Medical Report Generation" **CIKM (2023)** [[paper](https://dl.acm.org/doi/pdf/10.1145/3583780.3614961)]
 - **FedMedVLP:** "Scaling-up medical vision-and-language representation learning with federated learning" **EAAI (2023)** [[paper](https://www.sciencedirect.com/science/article/pii/S0952197623012216)]
+- **PairAug:** "PairAug: What Can Augmented Image-Text Pairs Do for Radiology?" **CVPR (2024)** [[paper](https://arxiv.org/pdf/2404.04960)] [[code](https://github.com/YtongXie/PairAug)]
 - **BiomedGPT:** "BiomedGPT: A Unified and Generalist Biomedical Generative Pre-trained Transformer for Vision, Language, and Multimodal Tasks" **ArXiv (2023)** [[paper](https://arxiv.org/pdf/2305.17100)] [[code](https://github.com/taokz/BiomedGPT)]
 - **LLaVA-Med:** "LLaVA-Med: Training a Large Language-and-Vision Assistant for Biomedicine in One Day" **Neurips Dataset and Benchmarks Track (2023)** [[paper](https://arxiv.org/pdf/2306.00890)] [[code](https://github.com/microsoft/LLaVA-Med)]
 - **Med-Flamingo:** "Med-Flamingo: a Multimodal Medical Few-shot Learner" **PMLR (2023)** [[paper](https://arxiv.org/pdf/2307.15189)] [[code](https://github.com/snap-stanford/med-flamingo)]
@@ -62,6 +63,16 @@ Medical Vision-and-Language Tasks and Methodologies: A Survey
 - **Flamingo-CXR:** "Consensus, dissensus and synergy between clinicians and specialist foundation models in radiology report generation" **ArXiV (2023)** [[paper](https://arxiv.org/pdf/2311.18260)]
 - **XrayGPT:** "XrayGPT: Chest Radiographs Summarization using Medical Vision-Language Models" **ArXiV (2023)** [[paper](https://arxiv.org/pdf/2306.07971)] [[code](https://github.com/mbzuai-oryx/XrayGPT)]
 - **LLM-CXR:** "LLM-CXR: Instruction-Finetuned LLM for CXR Image Understanding and Generation" **ICLR (2024)** [[paper](https://arxiv.org/pdf/2305.11490)] [[code](https://github.com/hyn2028/llm-cxr)]
+- **MI-Zero:** "Visual Language Pretrained Multiple Instance Zero-Shot Transfer for Histopathology Images" **CVPR (2023)** [[paper](https://arxiv.org/pdf/2306.07831)] [[code](https://github.com/mahmoodlab/MI-Zero)]
+- **TOP:** "The Rise of AI Language Pathologists: Exploring Two-level Prompt Learning for Few-shot Weakly-supervised Whole Slide Image Classification" **Neurips (2023)** [[paper](https://arxiv.org/pdf/2305.17891)] [[code](https://github.com/miccaiif/TOP)]
+- **Quilt-1M:** "Quilt-1M: One Million Image-Text Pairs for Histopathology" **Neurips (2023)** [[paper](https://arxiv.org/pdf/2306.11207)] [[code](https://github.com/wisdomikezogwo/quilt1m)]
+- **CPLIP:** "CPLIP: Zero-Shot Learning for Histopathology with Comprehensive Vision-Language Alignment" **CVPR (2024)** [[paper](https://arxiv.org/pdf/2406.05205)] [[code](https://github.com/iyyakuttiiyappan/CPLIP)]
+- **PathAlign:** "PathAlign: A vision-language model for whole slide images in histopathology" **ArXiV (2024)** [[paper](https://arxiv.org/pdf/2406.19578)]
+- **FiVE:** "Generalizable Whole Slide Image Classification with Fine-Grained Visual-Semantic Interaction" **CVPR (2024)** [[paper](https://arxiv.org/pdf/2402.19326)]
+- **MedBLIP:** "MedBLIP: Bootstrapping Language-Image Pre-training from 3D Medical Images and Texts" **ArXiV (2023)** [[paper](https://arxiv.org/pdf/2305.10799)] [[code](https://github.com/qybc/medblip)]
+- **T3D:**
+- **CT-RATE:**
+- **SurgVLP:** "Learning Multi-modal Representations by Watching Hundreds of Surgical Video Lectures" **** [[paper](https://arxiv.org/pdf/2307.15220)] [[code](https://github.com/CAMMA-public/SurgVLP)]
 
 
 
