@@ -7,7 +7,7 @@ Medical Vision-and-Language Tasks and Methodologies: A Survey
 - [Medical Visual Question Answering](#VQA)
 - [Medical Multi-modal Diagnosis and Prognosis](#disgnosis-prognosis)
 - [Medical Image Segmentation](#segmentation)
-- [Medical Image-Text Retrieval](#retrieval)
+- [Medical Image-Text Retrieval](#medical-image-text-retrieval)
 
 
 ## Medical Vision-Language Pre-training
