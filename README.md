@@ -2,12 +2,12 @@
 Medical Vision-and-Language Tasks and Methodologies: A Survey
 
 # Table of Contents
-- [Medical Vision-Language Pre-training](VLP)
-- [Medical Report Generation](###MRG)
-- [Medical Visual Question Answering](###VQA)
-- [Medical Multi-modal Diagnosis and Prognosis](###disgnosis-prognosis)
-- [Medical Image Segmentation](###segmentation)
-- [Medical Image-Text Retrieval](###retrieval)
+- [Medical Vision-Language Pre-training](#VLP)
+- [Medical Report Generation](#MRG)
+- [Medical Visual Question Answering](#VQA)
+- [Medical Multi-modal Diagnosis and Prognosis](#disgnosis-prognosis)
+- [Medical Image Segmentation](#segmentation)
+- [Medical Image-Text Retrieval](#retrieval)
 
 ## List of related papers and code
 
