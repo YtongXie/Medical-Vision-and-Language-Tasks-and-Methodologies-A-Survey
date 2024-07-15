@@ -9,11 +9,10 @@ Medical Vision-and-Language Tasks and Methodologies: A Survey
 - [Medical Image Segmentation](#segmentation)
 - [Medical Image-Text Retrieval](#retrieval)
 
-## List of related papers and code
 
-### Medical Vision-Language Pre-training
+## Medical Vision-Language Pre-training
 
-### Medical Report Generation
+## Medical Report Generation
 
 - Yang, Shuxin and Wu, Xian and Ge, Shen and Zheng, Zhuozhao and Zhou, S Kevin and Xiao, Li.<br> "Radiology report generation with a learned knowledge base and multi-modal alignment" **Medical Image Analysis (2023).** [[paper](https://www.sciencedirect.com/science/article/pii/S1361841523000592)] [[code](https://github.com/LX-doctorAI1/M2KT)]
 
@@ -284,4 +283,4 @@ Medical Vision-and-Language Tasks and Methodologies: A Survey
 
 
 
-### Medical Image-Text Retrieval
+## Medical Image-Text Retrieval
