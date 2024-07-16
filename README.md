@@ -84,6 +84,8 @@
   
 - **BioBridge:** "BioBridge: Bridging Biomedical Foundation Models via Knowledge Graphs" **ICLR (2024)** [[paper](https://arxiv.org/pdf/2310.03320)] [[code](https://github.com/RyanWangZf/BioBridge)]
   
+- **MOTOR:** "Towards Medical Artificial General Intelligence via Knowledge-Enhanced Multimodal Pretraining" **ArXiV (2023)** [[paper](https://arxiv.org/pdf/2304.14204)] [[code](https://github.com/chenzcv7/MOTOR)]
+  
 - **MedEPT:** "Harnessing the Power of Pre-trained Vision-Language Models for Efficient Medical Report Generation" **CIKM (2023)** [[paper](https://dl.acm.org/doi/pdf/10.1145/3583780.3614961)]
   
 - **FedMedVLP:** "Scaling-up medical vision-and-language representation learning with federated learning" **EAAI (2023)** [[paper](https://www.sciencedirect.com/science/article/pii/S0952197623012216)]
