@@ -156,10 +156,6 @@
 </details>
 
 
-[[paper]()] [[code]()]
-
-
-
   
 ## Medical Report Generation
 
@@ -433,4 +429,15 @@
 
 
 ## Medical Image-Text Retrieval
+<details>
+  <summary><b>List of Papers:</b></summary>
+  - 
+  -
+
+</details>
+
+
+
+[[paper]()] [[code]()]
+
 
