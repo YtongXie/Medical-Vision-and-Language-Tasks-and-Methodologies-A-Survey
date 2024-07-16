@@ -116,8 +116,6 @@
   
 - **MI-Zero:** "Visual Language Pretrained Multiple Instance Zero-Shot Transfer for Histopathology Images" **CVPR (2023)** [[paper](https://arxiv.org/pdf/2306.07831)] [[code](https://github.com/mahmoodlab/MI-Zero)]
   
-- **TOP:** "The Rise of AI Language Pathologists: Exploring Two-level Prompt Learning for Few-shot Weakly-supervised Whole Slide Image Classification" **Neurips (2023)** [[paper](https://arxiv.org/pdf/2305.17891)] [[code](https://github.com/miccaiif/TOP)]
-  
 - **Quilt-1M:** "Quilt-1M: One Million Image-Text Pairs for Histopathology" **Neurips (2023)** [[paper](https://arxiv.org/pdf/2306.11207)] [[code](https://github.com/wisdomikezogwo/quilt1m)]
   
 - **CPLIP:** "CPLIP: Zero-Shot Learning for Histopathology with Comprehensive Vision-Language Alignment" **CVPR (2024)** [[paper](https://arxiv.org/pdf/2406.05205)] [[code](https://github.com/iyyakuttiiyappan/CPLIP)]
@@ -138,8 +136,6 @@
   
 - **Med-UniC:** "Med-UniC: Unifying Cross-Lingual Medical Vision-Language Pre-Training by Diminishing Bias" **Neurips (2023)** [[paper](https://arxiv.org/pdf/2305.19894)] [[code](https://github.com/SUSTechBruce/Med-UniC)]
   
-- **UNI:** "Towards a general-purpose foundation model for computational pathology" **Nature Medicine (2024)** [[paper](https://arxiv.org/pdf/2308.15474)] [[code](https://github.com/mahmoodlab/UNI)]
-
 
 
 
