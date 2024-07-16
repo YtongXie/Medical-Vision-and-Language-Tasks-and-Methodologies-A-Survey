@@ -77,6 +77,8 @@
 - **MedKLIP:** "MedKLIP: Medical Knowledge Enhanced Language-Image Pre-Training in Radiology" **ICCV (2023)** [[paper](https://arxiv.org/pdf/2301.02228)] [[code](https://github.com/MediaBrain-SJTU/MedKLIP)]
   
 - **KAD:** "Knowledge-enhanced Visual-Language Pre-training on Chest Radiology Images" **ArXiv (2023)** [[paper](https://arxiv.org/pdf/2302.14042)] [[code](https://github.com/xiaoman-zhang/KAD)]
+
+- **DeViDe:** "DeViDe: Faceted medical knowledge for improved medical vision-language pre-training" **ArXiV (2024)** [[paper](https://arxiv.org/pdf/2404.03618)]
   
 - **ARL:** "Align, Reason and Learn: Enhancing Medical Vision-and-Language Pre-training with Knowledge" **ACMMM (2022)** [[paper](https://arxiv.org/pdf/2209.07118)] [[code](https://github.com/zhjohnchan/ARL)]
   
