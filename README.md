@@ -431,8 +431,23 @@
 ## Medical Image-Text Retrieval
 <details>
   <summary><b>List of Papers:</b></summary>
+  - "Text-guided visual representation learning for medical image retrieval systems" **ICPR (2022)** [[paper](https://ieeexplore.ieee.org/document/9956402)]
+  
+  - **SECMR:** "Semantic Extension for Cross-Modal Retrieval of Medical Image-Diagnosis Report" **NLPCC (2023)** [[paper](https://link.springer.com/chapter/10.1007/978-3-031-44693-1_35)]
   - 
-  -
+  - **DMACH:** "Deep medical cross-modal attention hashing" [[paper](https://link.springer.com/article/10.1007/s11280-021-00881-8)]
+  - 
+  - "Retrieving chest X-rays for differential diagnosis: A deep metric learning approach" **IEEE EMBS (2021)** [[paper](https://ieeexplore.ieee.org/abstract/document/9508620?casa_token=Iq_7uQZjjAIAAAAA:bYr77JlN37c0AxJwOU3SIsZMXksRvfU2d1d40DSO8LE2cbXTvov-gfuX7FkhX7UqQAcpWpdqNJM)]
+  - 
+  - **X-TRA:** "X-TRA: Improving Chest X-ray Tasks with Cross-Modal Retrieval Augmentation" **IPMI (2023)** [[paper](https://arxiv.org/pdf/2302.11352)]
+  - 
+  - "Category supervised cross-modal hashing retrieval for chest X-ray and radiology reports" **Computers & Electrical Engineering (2022)** [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0045790621005942)]
+  - 
+  - "Multi-Modal Medical Image Matching Based on Multi-Task Learning and Semantic-Enhanced Cross-Modal Retrieval" **Traitement du signal (2023)** [[paper](https://www.researchgate.net/publication/375098110_Multi-Modal_Medical_Image_Matching_Based_on_Multi-Task_Learning_and_Semantic-Enhanced_Cross-Modal_Retrieval)]
+  - 
+  - *MMDL:** "Multimodal multitask deep learning for X-ray image retrieval" **MCCAI (2021)** [[paper](https://link.springer.com/chapter/10.1007/978-3-030-87240-3_58)]
+  
+  - "Automated Cardiovascular Record Retrieval by Multimodal Learning between Electrocardiogram and Clinical Report" **ML4H (2023)** [[paper](https://arxiv.org/pdf/2304.06286)]
 
 </details>
 
