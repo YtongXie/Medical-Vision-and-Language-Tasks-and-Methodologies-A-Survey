@@ -35,7 +35,7 @@
 - "Multimodal Representation Learning via Maximization of Local Mutual Information" **MICCAI (2021)** [[paper](https://arxiv.org/pdf/2103.04537)] [[code](https://github.com/RayRuizhiLiao/mutual_info_img_txt)]
 - **LoVT:** "Joint Learning of Localized Representations from Medical Images and Reports" **ECCV (2022)** [[paper](https://arxiv.org/pdf/2112.02889)] [[code](https://github.com/philip-mueller/lovt)]
 - **ELVIS:** "ELVIS: Empowering Locality of Vision Language Pre-training with Intra-modal Similarity" **ArXiv (2023)** [[paper](https://arxiv.org/pdf/2304.05303)]
-- **MUMUC:** "Masked Vision and Language Pre-training with Unimodal and Multimodal Contrastive Losses for ring" **MICCAI (2023)** [[paper](https://arxiv.org/pdf/2307.05314)] [[code](https://github.com/pengfeiliHEU/MUMC)]
+- **MUMC:** "Masked Vision and Language Pre-training with Unimodal and Multimodal Contrastive Losses for ring" **MICCAI (2023)** [[paper](https://arxiv.org/pdf/2307.05314)] [[code](https://github.com/pengfeiliHEU/MUMC)]
 - **CXR-CLIP:** "CXR-CLIP: Toward Large Scale Chest X-ray Language-Image Pre-training" **MICCAI (2023)** [[paper](https://arxiv.org/pdf/2310.13292)] [[code](https://github.com/kakaobrain/cxr-clip)]
 - **MedViLL:** "Multi-modal Understanding and Generation for Medical Images and Text via Vision-Language Pre-Training" **JBHI (2022)** [[paper](https://arxiv.org/pdf/2105.11333)] [[code](https://github.com/SuperSupermoon/MedViLL)]
 - **M3AE:** "Multi-modal Masked Autoencoders for Medical Vision-and-Language Pre-training" **MICCAI (2022)** [[paper](https://arxiv.org/pdf/2205.14204)] [[code](https://github.com/young-geng/m3ae_public)]
