@@ -5,7 +5,7 @@
 ## Overview
 
 <p align="center">
-  <img src="framework.pdf">
+  <img src="framework.png">
   <br>
   <em>Overview of Medical visual language models (MVLM).</em>
 </p>
