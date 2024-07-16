@@ -16,7 +16,7 @@
 
 ## Medical Vision-Language Pre-training
 
-</details>
+<details>
   <summary><b>List of Papers:</b></summary>
   
   - **ConVIRT:** "Contrastive Learning of Medical Visual Representations from Paired Images and Text" **PMLR (2022)** [[paper](https://proceedings.mlr.press/v182/zhang22a/zhang22a.pdf)] [[code](https://github.com/yuhaozhang/convirt)]
@@ -145,7 +145,7 @@
   - "Text Promptable Surgical Instrument Segmentation with Vision-Language Models" **Neurips (20234)** [[paper](https://arxiv.org/pdf/2306.09244)] [[code](https://github.com/franciszzj/TP-SIS)]
     
   - **Med-UniC:** "Med-UniC: Unifying Cross-Lingual Medical Vision-Language Pre-Training by Diminishing Bias" **Neurips (2023)** [[paper](https://arxiv.org/pdf/2305.19894)] [[code](https://github.com/SUSTechBruce/Med-UniC)]
-<details>
+</details>
 
 
 [[paper]()] [[code]()]
