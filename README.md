@@ -11,18 +11,23 @@
 - [Medical Image-Text Retrieval](#medical-image-text-retrieval)
 
 
-## Medical Vision-Language Pre-training
 
+<details>
+  <summary><b>Medical Vision-Language Pre-training</b></summary>
 
-- **ConVIRT:** "Contrastive Learning of Medical Visual Representations from Paired Images and Text" **PMLR (2022)** [[paper](https://proceedings.mlr.press/v182/zhang22a/zhang22a.pdf)] [[code](https://github.com/yuhaozhang/convirt)]
   
-- **CheXzero:**  "Expert-level detection of pathologies from unannotated chest X-ray images via self-supervised learning" **Nature (2022).** [[paper](https://www.nature.com/articles/s41551-022-00936-9)] [[code](https://github.com/rajpurkarlab/CheXzero)]
-  
-- **BiomedCLIP:** "a multimodal biomedical foundation model pretrained from fifteen million scientific image-text pairs." **arXiv (2023)** [[paper](https://arxiv.org/pdf/2303.00915)] [[huggingface](https://huggingface.co/microsoft/BiomedCLIP-PubMedBERT_256-vit_base_patch16_224)]
-  
-- **PLIP:** "A visual–language foundation model for pathology image analysis using medical Twitter" **Nature (2023)** [[paper](https://www.nature.com/articles/s41591-023-02504-3)] [[code](https://github.com/PathologyFoundation/plip)]
-  
-- **BioViL:** "Making the Most of Text Semantics to Improve Biomedical Vision–Language Processing" **ECCV (2022)** [[paper]([https://link.springer.com/chapter/10.1007/978-3-031-20059-5_1](https://arxiv.org/pdf/2204.09817))] [[code](https://github.com/microsoft/hi-ml/tree/main/hi-ml-multimodal)]
+  - **ConVIRT:** "Contrastive Learning of Medical Visual Representations from Paired Images and Text" **PMLR (2022)** [[paper](https://proceedings.mlr.press/v182/zhang22a/zhang22a.pdf)] [[code](https://github.com/yuhaozhang/convirt)]
+    
+  - **CheXzero:**  "Expert-level detection of pathologies from unannotated chest X-ray images via self-supervised learning" **Nature (2022).** [[paper](https://www.nature.com/articles/s41551-022-00936-9)] [[code](https://github.com/rajpurkarlab/CheXzero)]
+    
+  - **BiomedCLIP:** "a multimodal biomedical foundation model pretrained from fifteen million scientific image-text pairs." **arXiv (2023)** [[paper](https://arxiv.org/pdf/2303.00915)] [[huggingface](https://huggingface.co/microsoft/BiomedCLIP-PubMedBERT_256-vit_base_patch16_224)]
+    
+  - **PLIP:** "A visual–language foundation model for pathology image analysis using medical Twitter" **Nature (2023)** [[paper](https://www.nature.com/articles/s41591-023-02504-3)] [[code](https://github.com/PathologyFoundation/plip)]
+    
+  - **BioViL:** "Making the Most of Text Semantics to Improve Biomedical Vision–Language Processing" **ECCV (2022)** [[paper]([https://link.springer.com/chapter/10.1007/978-3-031-20059-5_1](https://arxiv.org/pdf/2204.09817))] [[code](https://github.com/microsoft/hi-ml/tree/main/hi-ml-multimodal)]
+    
+</details>
+
   
 - **BilViL-T:** "Learning to Exploit Temporal Structure for Biomedical Vision–Language Processing" **CVPR (2023)** [[paper](https://arxiv.org/pdf/2301.04558)] [[code](https://github.com/microsoft/hi-ml/tree/main/hi-ml-multimodal)]
   
