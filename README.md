@@ -2,6 +2,14 @@
 
 :fire::fire: This is a collection of medical vision-language tasks and methodologies:fire::fire:
 
+## Overview
+
+<p align="center">
+  <img src="framework.pdf">
+  <br>
+  <em>Overview of Medical visual language models (MVLM).</em>
+</p>
+
 # Table of Contents
 - [Medical Vision-Language Pre-training](#medical-vision-language-pre-training)
 - [Medical Report Generation](#medical-report-generation)
