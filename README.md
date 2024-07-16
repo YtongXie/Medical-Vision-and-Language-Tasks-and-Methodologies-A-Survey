@@ -16,7 +16,7 @@
 
 ## Medical Vision-Language Pre-training
 
-<details>
+</details>
   <summary><b>List of Papers:</b></summary>
   
   - **ConVIRT:** "Contrastive Learning of Medical Visual Representations from Paired Images and Text" **PMLR (2022)** [[paper](https://proceedings.mlr.press/v182/zhang22a/zhang22a.pdf)] [[code](https://github.com/yuhaozhang/convirt)]
