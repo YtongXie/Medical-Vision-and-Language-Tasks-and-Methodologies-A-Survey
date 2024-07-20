@@ -154,8 +154,6 @@
     
   - **Med-UniC:** "Med-UniC: Unifying Cross-Lingual Medical Vision-Language Pre-Training by Diminishing Bias" **Neurips (2023)** [[paper](https://arxiv.org/pdf/2305.19894)] [[code](https://github.com/SUSTechBruce/Med-UniC)]
 </details>
-
-
   
 ## Medical Report Generation
 
@@ -277,7 +275,7 @@
   - Zhang, Yixiao and Wang, Xiaosong and Xu, Ziyue and Yu, Qihang and Yuille, Alan and Xu, Daguang.<br> "When radiology report generation meets knowledge graph" **AAAI (2020).** [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/6989)]
   
   - **KERP:** Li, Christy Y and Liang, Xiaodan and Hu, Zhiting and Xing, Eric P.<br> "Knowledge-driven encode, retrieve, paraphrase for medical image report generation" **MICCAI (2019).** [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/4637)]
-  
+
   - **MvH:** Yuan, Jianbo and Liao, Haofu and Luo, Rui and Luo, Jiebo.<br> "Automatic radiology report generation based on multi-view image fusion and medical concept enrichment" **MICCAI (2019).** [[paper](https://arxiv.org/pdf/1907.09085)]
   
   - **CMAS:** Jing, Baoyu and Wang, Zeya and Xing, Eric.<br> "Show, describe and conclude: On exploiting the structure information of chest x-ray reports" **ACL (2019).** [[paper](https://arxiv.org/pdf/2004.12274)]
@@ -295,9 +293,9 @@
   - **HRGR-Agent:** Li, Yuan and Liang, Xiaodan and Hu, Zhiting and Xing, Eric P.<br> "Hybrid retrieval-generation reinforced agent for medical image report generation" **NIPS (2018).** [[paper](https://proceedings.neurips.cc/paper/2018/file/e07413354875be01a996dc560274708e-Paper.pdf)]
   
   - **TieNet:** Wang, Xiaosong and Peng, Yifan and Lu, Le and Lu, Zhiyong and Summers, Ronald M.<br> "Tienet: Text-image embedding network for common thorax disease classification and reporting in chest x-rays" **CVPR (2018).** [[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_TieNet_Text-Image_Embedding_CVPR_2018_paper.pdf)]
+</details>
 
 ## Medical Visual Question Answering
-
 <details>
   <summary><b>List of Papers:</b></summary>
 
@@ -342,9 +340,9 @@
   - **QC-MLB:** Vu, Minh H and Löfstedt, Tommy and Nyholm, Tufve and Sznitman, Raphael.<br> "A question-centric model for visual question answering in medical imaging" **TMI (2020).** [[paper](https://arxiv.org/pdf/2003.08760)]
   
   - **MEVF:** Nguyen, Binh D and Do, Thanh-Toan and Nguyen, Binh X and Do, Tuong and Tjiputra, Erman and Tran, Quang D.<br> "Overcoming data limitation in medical visual question answering" **MICCAI (2019).** [[paper](https://arxiv.org/pdf/1909.11867)] [[code](https://github.com/aioz-ai/MICCAI19-MedVQA)]
+</details>
 
 ## Medical Multi-modal Diagnosis and Prognosis
-
 <details>
   <summary><b>List of Papers:</b></summary>
 
@@ -397,9 +395,9 @@
   - **DGM2FS:** Shao, Wei and Wang, Tongxin and Huang, Zhi and Cheng, Jun and Han, Zhi and Zhang, Daoqiang and Huang, Kun.<br> "Diagnosis-guided multi-modal feature selection for prognosis prediction of lung squamous cell carcinoma" **MICCAI (2019).** [[paper](https://link.springer.com/chapter/10.1007/978-3-030-32251-9_13)]
   
   - Pelka, Obioma and Nensa, Felix and Friedrich, Christoph M.<br> "Branding-fusion of meta data and musculoskeletal radiographs for multi-modal diagnostic recognition" **ICCV (2019).** [[paper](https://openaccess.thecvf.com/content_ICCVW_2019/papers/VRMI/Pelka_Branding_-_Fusion_of_Meta_Data_and_Musculoskeletal_Radiographs_for_ICCVW_2019_paper.pdf)]
+</details>
 
 ## Medical Image Segmentation
-
 <details>
   <summary><b>List of Papers:</b></summary>
 
@@ -436,8 +434,7 @@
   - **DTAN:** Zhao, Yiyang and Li, Jinjiang and Ren, Lu and Chen, Zheng.<br> "DTAN: Diffusion-based Text Attention Network for medical image segmentation" **Computers in Biology and Medicine (2024).** [[paper](https://www.sciencedirect.com/science/article/pii/S0010482523011939)]
 
   - **TGEDiff:** Dong, Zhiwei and Yuan, Genji and Hua, Zhen and Li, Jinjiang.<br> "Diffusion model-based text-guided enhancement network for medical image segmentation" **Expert Systems with Applications (2024).** [[paper](https://www.sciencedirect.com/science/article/pii/S0957417424004147)]
-
-
+</details>
 
 
 ## Medical Image-Text Retrieval
