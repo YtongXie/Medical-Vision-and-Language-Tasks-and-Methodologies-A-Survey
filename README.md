@@ -346,7 +346,7 @@
 <details>
   <summary><b>List of Papers:</b></summary>
 
-  - **Xplainer:** Pellegrini, Chantal and Keicher, Matthias and {\"O}zsoy, Ege and Jiraskova, Petra and Braren, Rickmer and Navab, Nassir.<br> "Xplainer: From x-ray observations to explainable zero-shot diagnosis" **MICCAI (2023).** [[paper](https://arxiv.org/pdf/2303.13391)] [[code](https://github.com/ChantalMP/Xplainer)]
+  - **Xplainer:** Pellegrini, Chantal and Keicher, Matthias and Özsoy, Ege and Jiraskova, Petra and Braren, Rickmer and Navab, Nassir.<br> "Xplainer: From x-ray observations to explainable zero-shot diagnosis" **MICCAI (2023).** [[paper](https://arxiv.org/pdf/2303.13391)] [[code](https://github.com/ChantalMP/Xplainer)]
   
   - Zhong, Yi and Xu, Mengqiu and Liang, Kongming and Chen, Kaixin and Wu, Ming.<br> "Ariadne's Thread: Using Text Prompts to Improve Segmentation of Infected Areas from Chest X-ray Images" **MICCAI (2023).** [[paper](https://arxiv.org/pdf/2307.03942)] [[code](https://github.com/Junelin2333/LanGuideMedSeg-MICCAI2023)]
   
