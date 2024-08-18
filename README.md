@@ -304,7 +304,3 @@
 </details>
 
 
-
-[[paper]()] [[code]()]
-
-
