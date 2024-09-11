@@ -297,9 +297,13 @@
     
   - "Multi-Modal Medical Image Matching Based on Multi-Task Learning and Semantic-Enhanced Cross-Modal Retrieval" **Traitement du signal (2023)** [[paper](https://www.researchgate.net/publication/375098110_Multi-Modal_Medical_Image_Matching_Based_on_Multi-Task_Learning_and_Semantic-Enhanced_Cross-Modal_Retrieval)]
     
-  - *MMDL:** "Multimodal multitask deep learning for X-ray image retrieval" **MCCAI (2021)** [[paper](https://link.springer.com/chapter/10.1007/978-3-030-87240-3_58)]
+  - **MMDL:** "Multimodal multitask deep learning for X-ray image retrieval" **MCCAI (2021)** [[paper](https://link.springer.com/chapter/10.1007/978-3-030-87240-3_58)]
   
   - "Automated Cardiovascular Record Retrieval by Multimodal Learning between Electrocardiogram and Clinical Report" **ML4H (2023)** [[paper](https://arxiv.org/pdf/2304.06286)]
+    
+  -  **BIMCV-R:** "BIMCV-R: A Landmark Dataset for 3D CT Text-Image Retrieval" **ArXiv (2024)** [[paper](https://arxiv.org/abs/2403.15992)]
+    
+  - **3D-MIR:** "3D-MIR: A Benchmark and Empirical Study on 3D Medical Image Retrieval in Radiology" **ArXiv (2023)** [[paper](https://arxiv.org/abs/2311.13752)] [[code](https://github.com/abachaa/3D-MIR)]
 
 </details>
 
