@@ -2,6 +2,8 @@
 
 :fire::fire: This is a collection of medical vision-language tasks and methodologies:fire::fire:
 
+:fire::fire: For more details, please see [A Survey of Medical Vision-and-Language Applications and Their Techniques](https://arxiv.org/pdf/2411.12195):fire::fire:
+
 ## Overview
 
 <p align="center">
